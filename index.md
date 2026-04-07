@@ -2,7 +2,7 @@
 ![Anlisa's Lius Profile Picture](https://i.pinimg.com/originals/1b/81/f8/1b81f862b7186fc2ccf0fe7c89d17424.jpg)
 
 
-***Actually this is just the image of the Web**
+***Actually this is just the image in the Web**
 ![My actual Profile picture on github is this](./profilepic.png)
 
 >This is quoting text for some reason
